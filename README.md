@@ -39,16 +39,15 @@ Welcome to my GitHub! I am a developer specializing in AI, machine learning, and
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krithishwaran&show_icons=true&theme=radical" alt="Krithishwaran's GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Krithishwaran&show_icons=true&theme=radical" alt="Krithishwaran's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krithishwaran&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Krithishwaran&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Let's Connect
 
-- 🌐 **Portfolio:** [https://krithishwaran.github.io/Krithishwaran-Portfolio/]
-- 📧 **Email:** [krithishwaranrb@gmail.com]
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/krithishwaran-rb/]
+- 🌐 **Portfolio:** [Krithishwaran's Portfolio](https://krithishwaran.github.io/Krithishwaran-Portfolio/)
+- 📧 **Email:** [krithishwaranrb@gmail.com](mailto:krithishwaranrb@gmail.com)
+- 💼 **LinkedIn:** [Krithishwaran RB](https://www.linkedin.com/in/krithishwaran-rb/)
