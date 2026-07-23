@@ -18,12 +18,12 @@ I am a technical professional specializing in Artificial Intelligence, Machine L
 - **Environment:** Windows 10
 
 ## 📈 GitHub Activity
-[![Krithishwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord)](https://github.com/Krithishwaran)
+[![Krithishwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krithishwaran&show_icons=true&theme=nord)](https://github.com/Krithishwaran)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord)](https://github.com/Krithishwaran)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krithishwaran&layout=compact&theme=nord)](https://github.com/Krithishwaran)
 
 ## 📫 Let's Connect
-- **Location:** Dharmapuri, Tamil Nadu, India
+- **Location:** India
 - **Portfolio:** [https://krithishwaran.github.io/Krithishwaran-Portfolio/](#)
 - **LinkedIn:** [https://www.linkedin.com/in/krithishwaran-rb/](#)
 - **Email:** [krithishwaranrb@gmail.com](#)
