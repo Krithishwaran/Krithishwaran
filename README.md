@@ -51,5 +51,3 @@ Welcome to my GitHub! I am a developer specializing in AI, machine learning, and
 - 🌐 **Portfolio:** [Krithishwaran's Portfolio](https://krithishwaran.github.io/Krithishwaran-Portfolio/)
 - 📧 **Email:** [krithishwaranrb@gmail.com](mailto:krithishwaranrb@gmail.com)
 - 💼 **LinkedIn:** [Krithishwaran RB](https://www.linkedin.com/in/krithishwaran-rb/)
-
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=Krithishwaran&repo=Krithishwaran&theme=dracula" />
