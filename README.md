@@ -24,6 +24,6 @@ I am a technical professional specializing in Artificial Intelligence, Machine L
 
 ## 📫 Let's Connect
 - **Location:** Dharmapuri, Tamil Nadu, India
-- **Portfolio:** [Insert Link to your Portfolio](#)
+- **Portfolio:** [https://krithishwaran.github.io/Krithishwaran-Portfolio/](#)
 - **LinkedIn:** [https://www.linkedin.com/in/krithishwaran-rb/](#)
 - **Email:** [krithishwaranrb@gmail.com](#)
