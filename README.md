@@ -13,7 +13,7 @@ Welcome to my GitHub! I am a developer specializing in AI, machine learning, and
 - 💻 Experienced in optimizing data science workflows and developing custom solutions within a **Windows 11** enterprise environment.
 - 🌱 Continuously architecting deep learning models, advanced data pipelines, and optimizing algorithmic efficiency.
 - 💬 Open to collaborating on: **Python applications, Data Science pipelines, and Full-Stack Web Development**.
-- 📍 Based in: **Dharmapuri, Tamil Nadu**.
+- 📍 Based in: **India**.
 
 ---
 
