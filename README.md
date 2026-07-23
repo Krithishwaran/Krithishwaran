@@ -1,25 +1,23 @@
 # Hi there, I'm Krithishwaran 👋
 
-### 🧠 B.Sc. Artificial Intelligence & Machine Learning Student | Data Science Enthusiast
+### 🧠 Artificial Intelligence & Machine Learning Developer | Data Science Professional
 
-Welcome to my GitHub! I am a student and developer with a strong foundation in AI, machine learning, and data-centric applications. I enjoy tackling complex problems, optimizing performance, and building smart automation tools. 
+Welcome to my GitHub! I am a developer specializing in AI, machine learning, and data-centric applications. I focus on tackling complex architectural problems, optimizing system performance, and building intelligent automation tools. 
 
 ---
 
-### 🚀 About Me
+### 🚀 Professional Summary
 
-- 🎓 Currently pursuing a **B.Sc. in Artificial Intelligence and Machine Learning** at AMET University (Expected Graduation: 2027).
-- 📜 Hold Advanced Diplomas in **Python** and **Java** Programming (with Distinction).
-- 💻 My tech environment is primarily **Windows 11**, focusing on data science workflows. 
-- 🌱 Currently diving deeper into machine learning models, data analysis, and algorithm optimization.
-- 💬 Ask me about: **Python, Java, Data Science, and Frontend Web Development**.
+- 🔬 Specializing in **Artificial Intelligence and Machine Learning** with a focus on deploying scalable data models.
+- 📜 Certified professional with Advanced Diplomas in **Python** and **Java** Programming (with Distinction).
+- 💻 Experienced in optimizing data science workflows and developing custom solutions within a **Windows 11** enterprise environment.
+- 🌱 Continuously architecting deep learning models, advanced data pipelines, and optimizing algorithmic efficiency.
+- 💬 Open to collaborating on: **Python applications, Data Science pipelines, and Full-Stack Web Development**.
 - 📍 Based in: **Dharmapuri, Tamil Nadu**.
 
 ---
 
-### 🛠️ Languages & Tools
-
-Here are the primary technologies I work with to build models, applications, and web interfaces:
+### 🛠️ Technical Arsenal
 
 **Core Programming & Data Science:**
 <p align="left">
@@ -29,7 +27,7 @@ Here are the primary technologies I work with to build models, applications, and
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-**Web Development:**
+**Frontend & Web Technologies:**
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -38,7 +36,7 @@ Here are the primary technologies I work with to build models, applications, and
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krithishwaran&show_icons=true&theme=radical" alt="Krithishwaran's GitHub Stats" />
@@ -49,8 +47,8 @@ Here are the primary technologies I work with to build models, applications, and
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
-- 🌐 **Portfolio:** [Link to your GitHub hosted portfolio website]
-- 📧 **Email:** [Your Professional Email]
-- 💼 **LinkedIn:** [Your LinkedIn URL]
+- 🌐 **Portfolio:** [https://krithishwaran.github.io/Krithishwaran-Portfolio/]
+- 📧 **Email:** [krithishwaranrb@gmail.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/krithishwaran-rb/]
